@@ -1,0 +1,38 @@
+[
+  {
+    "company": "Northstar Medical Group",
+    "city": "Huntsville",
+    "industry": "medical",
+    "website": "https://northstar-medical.example",
+    "description": "A fictional clinic announcing a new location and now hiring additional staff."
+  },
+  {
+    "company": "River Bend Engineering",
+    "city": "Guntersville",
+    "industry": "engineering",
+    "website": "https://river-bend-engineering.example",
+    "description": "A fictional engineering company expanding its office and laboratory facility."
+  },
+  {
+    "company": "Cedar Hill Veterinary",
+    "city": "Arab",
+    "industry": "veterinary",
+    "website": "https://cedar-hill-vet.example",
+    "description": "A fictional veterinary clinic with a stable local office."
+  },
+  {
+    "company": "Example Existing Customer",
+    "city": "Huntsville",
+    "industry": "manufacturing",
+    "website": "https://existing-customer.example",
+    "description": "A fictional manufacturer opening a new facility."
+  },
+  {
+    "company": "Faraway Office",
+    "city": "Birmingham",
+    "industry": "medical",
+    "website": "https://faraway-office.example",
+    "description": "A fictional company outside the configured service territory."
+  }
+]
+
